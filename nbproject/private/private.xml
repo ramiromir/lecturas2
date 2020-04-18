@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/lecturas2/app/Http/Controllers/TelefonoController.php</file>
+            <file>file:/var/www/html/lecturas2/routes/web.php</file>
+            <file>file:/var/www/html/lecturas2/resources/views/app.blade.php</file>
+            <file>file:/var/www/html/lecturas2/.env</file>
+            <file>file:/var/www/html/lecturas2/resources/js/components/RegistrarLlamada.vue</file>
+            <file>file:/var/www/html/lecturas2/resources/js/components/ActualizarRegistro.vue</file>
+            <file>file:/var/www/html/lecturas2/app/Llamada.php</file>
+            <file>file:/var/www/html/lecturas2/app/Http/Controllers/SuministroController.php</file>
+            <file>file:/var/www/html/lecturas2/resources/js/App.vue</file>
+            <file>file:/var/www/html/lecturas2/app/Telefono.php</file>
+            <file>file:/var/www/html/lecturas2/app/Http/Controllers/LlamadaController.php</file>
+            <file>file:/var/www/html/lecturas2/app/Http/Controllers/suminresumenController.php</file>
+            <file>file:/var/www/html/lecturas2/app/User.php</file>
+            <file>file:/var/www/html/lecturas2/resources/js/routes.js</file>
+            <file>file:/var/www/html/lecturas2/resources/js/components/TodasLlamadas.vue</file>
+            <file>file:/var/www/html/lecturas2/database/migrations/2020_04_14_164345_create_telefonos_table.php</file>
+            <file>file:/var/www/html/lecturas2/routes/api.php</file>
+            <file>file:/var/www/html/lecturas2/resources/js/app.js</file>
+            <file>file:/var/www/html/lecturas2/app/Suministro.php</file>
+            <file>file:/var/www/html/lecturas2/database/migrations/2020_04_14_051401_create_llamadas_table.php</file>
+            <file>file:/var/www/html/lecturas2/app/suminresumen.php</file>
+        </group>
+    </open-files>
+</project-private>
